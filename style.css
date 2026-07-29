@@ -37,16 +37,9 @@ footer {
   margin-bottom: 20px;
   transform: translateX(-40%);
 }
-#game-mode-text {
-  color: rgb(196, 45, 45);
-  font-size: 1.9em;
-  margin-bottom: 20px;
-  transform: translateX(-25%);
-}
-
 #game-mech-text {
   color: rgb(196, 45, 45);
   font-size: 2em;
   margin-bottom: 20px;
-  transform: translateX(-31%);
+  transform: translateX(-25%);
 }
